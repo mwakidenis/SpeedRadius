@@ -78,11 +78,11 @@ GNU General Public License version 2 or later
 see [LICENSE](LICENSE) file
 
 
-## Donate to Shabran Kweyu
+## Donate to Mwaki Denis
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ibnux)
 
-Mpesa : 0718167262
+Mpesa : 0798750585
 
 ## Thanks
 We appreciate all people who are participating in this project.
